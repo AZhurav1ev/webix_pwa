@@ -1,0 +1,24 @@
+{
+    "short_name": "Webix PWA",
+    "name": "Webix PWA - PWA example",
+    "icons": [{
+            "src": "codebase/img/logo3.jpg",
+            "type": "image/jpg",
+            "sizes": "192x192"
+        },
+        {
+            "src": "codebase/img/logo2.jpg",
+            "type": "image/jpg",
+            "sizes": "512x512"
+        },
+        {
+            "src": "codebase/img/logo4.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        }
+    ],
+    "start_url": "index.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "theme_color": "#3367D6"
+}
