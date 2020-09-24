@@ -4,6 +4,6 @@ module.exports = {
 	"**/*.{css,js}",
 	"../index.html"
   ],
-  "swDest": "codebase/sw.js",
-  "swSrc": "sw.js"
+  "swDest": "sw.js",
+  "swSrc": "sw-config.js"
 };
